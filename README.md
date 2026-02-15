@@ -40,6 +40,3 @@ The API accepts a movie review and returns the predicted sentiment.
 ```bash
 pip install -r requirements.txt
 uvicorn api:app --reload
-then open -
-
-http://127.0.0.1:8000/docs
